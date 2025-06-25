@@ -1,0 +1,13 @@
+Vit. C Serum, Garnier  , 113, 1000, France
+Skin Cleanser, Cetaphil, 93, 280, Switzerland
+Sunscreen   , Aqualogica, 179, 700, India
+Moisturizer , Neutrogena, 129, 499, USA  
+Face Wash   , Himalaya , 87, 180, India  
+Night Cream, New Olay  , 124, 999, UK  
+Toner gel  , The Plum  , 175, 390, India  
+Eye Cream, The Ordinary, 12, 850, Canada  
+Tint LipBalm, New Nivea, 15, 120, Germany  
+Face Serum, Minimalist, 30, 599, India  
+Face Pack , Biotiqu e , 75, 250, India  
+Cleanse Balm, Clinique , 194, 1100, USA  
+Hydrating Gel, Laneige , 183, 1350, South Korea
