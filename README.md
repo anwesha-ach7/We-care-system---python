@@ -1,7 +1,4 @@
-2. Open the `.java` files in an IDE such as BlueJ, Eclipse, or IntelliJ IDEA.
-3. Compile and run `GymGUI.java`.
 
----
 
 ## 2. We-Care System (Python)
 
